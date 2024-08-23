@@ -1,0 +1,468 @@
+{
+  "restaurants": [
+    {
+      "id": "1",
+      "title": "Hioki Sushi",
+      "description": "Peça já o melhor da culinária japonesa no conforto da sua casa! Sushis frescos, sashimis deliciosos e pratos quentes irresistíveis. Entrega rápida, embalagens cuidadosas e qualidade garantida. Experimente o Japão sem sair do lar com nosso delivery!",
+      "image": "https://img.freepik.com/fotos-gratis/fechar-foto_496169-229.jpg?t=st=1723575113~exp=1723578713~hmac=c4aabcd2251ab39b8c67603d9ca9345c4d6a11c5d7f75f13217665d506e0abff&w=1380",
+      "infos": [
+        "Destaque da semana",
+        "Japonesa"
+      ],
+      "rank": 4.9,
+      "type": "Japonesa",
+      "menu": [
+        {
+          "name": "Sushi Combinado",
+          "price": 25.99,
+          "description": "Uma combinação de sushi variado com peixe fresco, servido com molho de soja e gengibre.",
+          "productImage": "https://img.freepik.com/fotos-gratis/maki-roll-com-pepino-servido-com-molho-e-gergelim_141793-789.jpg?t=st=1723575592~exp=1723579192~hmac=fc91f513fad375dee68228407a39d1c6ef4ca47c9bf6a0bbdf0cf6f962b0463b&w=740",
+          "serves": "2-3 pessoas",
+          "itemAbout": "O Sushi Combinado oferece uma seleção de sushi clássico, feito com o peixe mais fresco."
+        },
+        {
+          "name": "Tempura de Camarão",
+          "price": 18.5,
+          "description": "Camarão empanado e frito até dourar, servido com molho tártaro.",
+          "productImage": "https://img.freepik.com/fotos-gratis/camarao-frito-e-lula-com-molho-picante_1150-35479.jpg?t=st=1723575627~exp=1723579227~hmac=9ab86cb4d2edbf07d7f621bc48b5fe114f5cab77f8c57bc0321eb3fbd4c295f4&w=1380",
+          "serves": "1 pessoa",
+          "itemAbout": "Tempura de Camarão é uma iguaria japonesa, com uma massa leve e crocante ao redor do camarão."
+        },
+        {
+          "name": "Sashimi de Salmão",
+          "price": 22.99,
+          "description": "Fatias finas de salmão fresco, servidas com molho de soja e wasabi.",
+          "productImage": "https://img.freepik.com/fotos-gratis/sashimi-de-salmao-fatiado_1339-5555.jpg?t=st=1723575689~exp=1723579289~hmac=d67075d79a5fc5a5775de06438520b92b0012968b63c9360da6962bb368cba0c&w=1380",
+          "serves": "1 pessoa",
+          "itemAbout": "O Sashimi de Salmão é uma especialidade japonesa, destacada por sua frescura e simplicidade."
+        },
+        {
+          "name": "Yakitori",
+          "price": 15.99,
+          "description": "Espetinhos de frango grelhado com molho teriyaki.",
+          "productImage": "https://img.freepik.com/fotos-gratis/comida-japonesa-tradicional-na-grelha_23-2148759599.jpg?t=st=1723575727~exp=1723579327~hmac=a7ec723bc85bc543b051e2222d98c598d8996a93047b060d8efae9891bc89a06&w=1060",
+          "serves": "1-2 pessoas",
+          "itemAbout": "Yakitori é um prato tradicional japonês, consistindo em espetinhos de frango grelhado, cobertos com molho teriyaki."
+        },
+        {
+          "name": "Uramaki Califórnia",
+          "price": 12.99,
+          "description": "Arroz, alga, pepino, abacate e kani kama enrolados no estilo califórnia.",
+          "productImage": "https://img.freepik.com/fotos-gratis/rolos-asiaticos-com-ervas-e-especiarias_23-2148195520.jpg?t=st=1723575764~exp=1723579364~hmac=a6881adf97c3fe6fd09543f6fc03136d1e3ff25801c361e05922adaaa9db7447&w=1380",
+          "serves": "1 pessoa",
+          "itemAbout": "O Uramaki Califórnia é um dos rolos de sushi mais populares, perfeito para iniciantes no sushi."
+        },
+        {
+          "name": "Ramen de Porco",
+          "price": 19.99,
+          "description": "Macarrão ramen em caldo de porco, com ovo cozido e cebolinha.",
+          "productImage": "https://img.freepik.com/fotos-gratis/angulo-alto-do-delicioso-ramen-na-tigela_23-2148678758.jpg?t=st=1723575797~exp=1723579397~hmac=ee7fca4884e573088f15c33e4bab027d5475ec1bd160053b14ff8e2c1e4089ee&w=740",
+          "serves": "1 pessoa",
+          "itemAbout": "O Ramen de Porco é uma sopa japonesa reconfortante, rica em sabor e texturas."
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "La Dolce Vita Trattoria",
+      "description": "A La Dolce Vita Trattoria leva a autêntica cozinha italiana até você! Desfrute de massas caseiras, pizzas deliciosas e risotos incríveis, tudo no conforto do seu lar.",
+      "image": "https://img.freepik.com/fotos-gratis/mulher-come-macarrao-espaguete-com-carne-verduras-parmesao-vista-lateral_141793-3226.jpg?t=st=1723575338~exp=1723578938~hmac=2d63462ddfa1994af909d988b35f9f954b71e3a3e732d5c61f3ece8d95dd36b4&w=740",
+      "infos": [
+        "Italiana"
+      ],
+      "rank": "4.6",
+      "type": "Italiana",
+      "menu": [
+        {
+          "name": "Pizza Marguerita",
+          "price": 65.99,
+          "description": "A clássica Marguerita: molho de tomate suculento, mussarela derretida, manjericão fresco e um toque de azeite.",
+          "productImage": "https://img.freepik.com/fotos-gratis/pizza_144627-39498.jpg?t=st=1723576522~exp=1723580122~hmac=3ed8a9e99c63e13005c85d483717896fa186cd71a8f7ff98fb59a70519c643c8&w=740",
+          "serves": "de 2 a 3 pessoas",
+          "itemAbout": "A pizza Margherita é uma pizza clássica da culinária italiana, reconhecida por sua simplicidade e sabor inigualável."
+        },
+        {
+          "name": "Fettuccine Alfredo",
+          "price": 18.99,
+          "description": "Massa fresca com molho Alfredo cremoso, queijo parmesão e um toque de pimenta-do-reino.",
+          "productImage": "https://img.freepik.com/fotos-gratis/molho-de-creme-branco-fettucine-com-camarao-e-cogumelos_74190-732.jpg?ga=GA1.1.1786221152.1716466257&semt=ais_hybrid",
+          "serves": "1 pessoa",
+          "itemAbout": "O Fettuccine Alfredo é uma receita clássica italiana que combina massa fresca com um molho cremoso e saboroso."
+        },
+        {
+          "name": "Tiramisu",
+          "price": 6.5,
+          "description": "Sobremesa tradicional italiana com camadas de biscoito, café e mascarpone.",
+          "productImage": "https://img.freepik.com/fotos-gratis/tiramisu-de-alto-angulo-em-frasco-pequeno_23-2148531563.jpg?ga=GA1.1.1786221152.1716466257&semt=ais_hybrid",
+          "serves": "1 pessoa",
+          "itemAbout": "O Tiramisu é uma sobremesa italiana famosa pelo seu sabor rico e textura cremosa."
+        },
+        {
+          "name": "Risotto de Funghi",
+          "price": 23.99,
+          "description": "Risotto cremoso com cogumelos selvagens e parmesão.",
+          "productImage": "https://img.freepik.com/fotos-gratis/risoto-vegetariano-com-cogumelos-frescos-e-queijo-parmesao-gerado-por-ia_188544-10223.jpg?ga=GA1.1.1786221152.1716466257&semt=ais_hybrid",
+          "serves": "1-2 pessoas",
+          "itemAbout": "Risotto de Funghi é um prato italiano requintado, com cogumelos selvagens e um toque de parmesão."
+        },
+        {
+          "name": "Lasagna Bolognese",
+          "price": 21.99,
+          "description": "Massa em camadas com molho bolognese, ricota e mussarela.",
+          "productImage": "https://img.freepik.com/fotos-gratis/lasanha-tradicional-com-um-rico-molho-bolognese_60438-3536.jpg?ga=GA1.1.1786221152.1716466257&semt=ais_hybrid",
+          "serves": "2 pessoas",
+          "itemAbout": "A Lasagna Bolognese é uma refeição clássica italiana, perfeita para compartilhar com a família."
+        },
+        {
+          "name": "Panna Cotta",
+          "price": 8.5,
+          "description": "Sobremesa italiana cremosa servida com calda de frutas vermelhas.",
+          "productImage": "https://img.freepik.com/fotos-gratis/panna-cotta_1203-3639.jpg?ga=GA1.1.1786221152.1716466257&semt=ais_hybrid",
+          "serves": "1 pessoa",
+          "itemAbout": "Panna Cotta é uma sobremesa italiana leve e refrescante, com uma calda de frutas vermelhas."
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Bistro Paris",
+      "description": "Desfrute da autêntica cozinha francesa no Bistro Paris. Sabores clássicos e ambiente aconchegante, direto para sua casa.",
+      "image": "https://img.freepik.com/fotos-gratis/delicioso-cafe-da-manha-frances-com-croissant_23-2150408517.jpg?t=st=1723576199~exp=1723579799~hmac=cfc38e2776877dce0628c042735f2aaa79603fa42612f0b6dfd28c33933cd6ea&w=740",
+      "infos": [
+        "Francesa"
+      ],
+      "rank": "4.7",
+      "type": "Francesa",
+      "menu": [
+        {
+          "name": "Croissant",
+          "price": 3.5,
+          "description": "Croissant fresco e amanteigado, assado diariamente.",
+          "productImage": "https://img.freepik.com/fotos-gratis/croissants-franceses-em-caixa-de-papelao-e-pano_23-2148432404.jpg?ga=GA1.1.1786221152.1716466257&semt=ais_hybrid",
+          "serves": "1 pessoa",
+          "itemAbout": "O croissant é um dos ícones da culinária francesa, conhecido por sua massa folhada e textura delicada."
+        },
+        {
+          "name": "Quiche Lorraine",
+          "price": 8.5,
+          "description": "Quiche tradicional francesa com bacon, queijo e creme.",
+          "productImage": "https://img.freepik.com/fotos-gratis/foto-de-close-up-de-torta-classica-de-quiche-lorraine-com-tomate_176420-15965.jpg?ga=GA1.1.1786221152.1716466257&semt=ais_hybrid",
+          "serves": "2 pessoas",
+          "itemAbout": "A Quiche Lorraine é uma torta francesa saborosa, rica e perfeita para qualquer refeição."
+        },
+        {
+          "name": "Soufflé de Queijo",
+          "price": 12.99,
+          "description": "Soufflé leve e fofo de queijo, servido quente.",
+          "productImage": "https://img.freepik.com/fotos-gratis/doces-mexicanos-de-alto-angulo-no-prato_23-2149517144.jpg?ga=GA1.1.1786221152.1716466257&semt=ais_hybrid",
+          "serves": "1 pessoa",
+          "itemAbout": "O Soufflé de Queijo é um prato clássico francês, famoso por sua textura leve e sabor intenso."
+        },
+        {
+          "name": "Escargot à la Bourguignonne",
+          "price": 15.99,
+          "description": "Caracóis cozidos em manteiga de alho e ervas, servidos com pão crocante.",
+          "productImage": "https://img.freepik.com/fotos-gratis/dolma-azeri-de-folhas-de-uva_140725-1042.jpg?ga=GA1.1.1786221152.1716466257&semt=ais_hybrid",
+          "serves": "1 pessoa",
+          "itemAbout": "Escargot é um prato tradicional francês, preparado com caracóis cozidos em manteiga de alho e ervas."
+        },
+        {
+          "name": "Coq au Vin",
+          "price": 25.99,
+          "description": "Frango cozido em vinho tinto com cogumelos e cebolas, servido com purê de batatas.",
+          "productImage": "https://img.freepik.com/fotos-gratis/bife-de-peixe-de-pato-no-prato-branco_1203-8926.jpg?ga=GA1.1.1786221152.1716466257&semt=ais_hybrid",
+          "serves": "1-2 pessoas",
+          "itemAbout": "Coq au Vin é um prato clássico francês, onde o frango é cozido lentamente em vinho tinto, absorvendo todos os sabores."
+        },
+        {
+          "name": "Crème Brûlée",
+          "price": 7.5,
+          "description": "Sobremesa de creme de baunilha com crosta de açúcar caramelizado.",
+          "productImage": "https://img.freepik.com/fotos-gratis/sobremesa-com-uma-crosta-de-acucar-queimado-por-um-macarico_144627-16747.jpg?ga=GA1.1.1786221152.1716466257&semt=ais_hybrid",
+          "serves": "1 pessoa",
+          "itemAbout": "Crème Brûlée é uma sobremesa francesa clássica, conhecida por sua textura cremosa e cobertura crocante de açúcar caramelizado."
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Steakhouse Grill",
+      "description": "A Steakhouse Grill oferece carnes grelhadas de alta qualidade, preparadas ao ponto perfeito e servidas com acompanhamentos deliciosos.",
+      "image": "https://img.freepik.com/fotos-gratis/pedacos-de-bife-de-cordeiro-com-molhos-pimenta-grelhada-salada-fresca-na-placa-de-madeira_140725-10580.jpg?t=st=1723576262~exp=1723579862~hmac=b345ffe6ca385283ea1b4c3efe9e4a780c091fb34e600c6df1e24af048d3d542&w=1380",
+      "infos": [
+        "Churrasco"
+      ],
+      "rank": "4.5",
+      "type": "Churrasco",
+      "menu": [
+        {
+          "name": "Picanha na Brasa",
+          "price": 30,
+          "description": "Corte de picanha grelhado na brasa, servido com farofa e vinagrete.",
+          "productImage": "https://img.freepik.com/fotos-gratis/bifes-crus-meio-grelhados-e-meio-prontos-na-grelha_114579-1980.jpg?ga=GA1.1.1786221152.1716466257&semt=ais_hybrid",
+          "serves": "de 2 a 3 pessoas",
+          "itemAbout": "A Picanha na Brasa é um dos cortes mais apreciados do churrasco brasileiro, famoso por seu sabor suculento."
+        },
+        {
+          "name": "Costela de Porco",
+          "price": 25,
+          "description": "Costela de porco grelhada, temperada com especiarias e servida com molho barbecue.",
+          "productImage": "https://img.freepik.com/fotos-gratis/croissants-assados-com-peras_144627-34050.jpg?ga=GA1.1.1786221152.1716466257&semt=ais_hybrid",
+          "serves": "de 2 a 4 pessoas",
+          "itemAbout": "A Costela de Porco é macia e cheia de sabor, perfeita para compartilhar em um churrasco."
+        },
+        {
+          "name": "Bife Ancho",
+          "price": 35,
+          "description": "Corte de bife ancho grelhado, servido com batatas rústicas e chimichurri.",
+          "productImage": "https://img.freepik.com/fotos-gratis/churrasco-de-carne-fatiada-servido-com-cebola-e-sal-marinho_114579-7238.jpg?ga=GA1.1.1786221152.1716466257&semt=ais_hybrid",
+          "serves": "1 pessoa",
+          "itemAbout": "O Bife Ancho é um corte nobre, conhecido por sua suculência e sabor intenso."
+        },
+        {
+          "name": "Linguiça Toscana",
+          "price": 15.99,
+          "description": "Linguiça toscana grelhada, servida com pão de alho.",
+          "productImage": "https://img.freepik.com/fotos-gratis/deliciosa-variedade-de-chourico-tradicional_23-2148980270.jpg?ga=GA1.1.1786221152.1716466257&semt=ais_hybrid",
+          "serves": "1-2 pessoas",
+          "itemAbout": "A Linguiça Toscana é um clássico do churrasco, com sabor marcante e textura suculenta."
+        },
+        {
+          "name": "Fraldinha Grelhada",
+          "price": 28.99,
+          "description": "Fraldinha grelhada ao ponto, acompanhada de farofa e vinagrete.",
+          "productImage": "https://img.freepik.com/fotos-gratis/preparacao-de-asas-de-frango-na-grelha-de-metal_23-2148029518.jpg?ga=GA1.1.1786221152.1716466257&semt=ais_hybrid",
+          "serves": "2 pessoas",
+          "itemAbout": "A Fraldinha é uma carne macia e saborosa, perfeita para um churrasco em família."
+        },
+        {
+          "name": "Chorizo com Chimichurri",
+          "price": 32.99,
+          "description": "Corte de chorizo argentino, servido com molho chimichurri.",
+          "productImage": "https://img.freepik.com/fotos-gratis/detalhe-de-refeicao-rica-em-proteinas-de-salsicha_23-2149098895.jpg?ga=GA1.1.1786221152.1716466257&semt=ais_hybrid",
+          "serves": "1-2 pessoas",
+          "itemAbout": "O Chorizo é um dos cortes mais apreciados na Argentina, famoso por seu sabor e textura."
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "El Mariachi",
+      "description": "Viva o sabor do México com o El Mariachi! Tacos, burritos, e muito mais preparados com ingredientes autênticos e frescos.",
+      "image": "https://img.freepik.com/fotos-gratis/tacos-deliciosos-no-alto-angulo-da-cesta_23-2148629319.jpg?t=st=1723576318~exp=1723579918~hmac=8eca9414992ee0ae91e7945e8ca14fcb2e3ccecc80bd99e020e94ab74219d8b9&w=1380",
+      "infos": [
+        "Mexicana"
+      ],
+      "rank": "4.8",
+      "type": "Mexicana",
+      "menu": [
+        {
+          "name": "Tacos al Pastor",
+          "price": 12.99,
+          "description": "Tortilhas de milho recheadas com carne de porco marinada, abacaxi, cebola e coentro.",
+          "productImage": "https://img.freepik.com/fotos-gratis/angulo-alto-do-conceito-de-comida-mexicana_23-2148629376.jpg?ga=GA1.1.1786221152.1716466257&semt=ais_hybrid",
+          "serves": "1-2 pessoas",
+          "itemAbout": "Tacos al Pastor são um clássico mexicano, conhecidos por seu sabor marcante e combinação de ingredientes."
+        },
+        {
+          "name": "Burrito de Carne Asada",
+          "price": 15.99,
+          "description": "Tortilha recheada com carne asada, arroz, feijão, queijo e guacamole.",
+          "productImage": "https://img.freepik.com/fotos-gratis/rolo-de-carne-em-pao-pita-e-pimenta_140725-3291.jpg?ga=GA1.1.1786221152.1716466257&semt=ais_hybrid",
+          "serves": "1 pessoa",
+          "itemAbout": "O Burrito de Carne Asada é uma refeição completa, cheia de sabor e texturas."
+        },
+        {
+          "name": "Guacamole com Nachos",
+          "price": 8.99,
+          "description": "Guacamole fresco, feito com abacate, tomate, cebola e limão, servido com nachos crocantes.",
+          "productImage": "https://img.freepik.com/fotos-gratis/nachos-chips-com-molhos_658428-127.jpg?ga=GA1.1.1786221152.1716466257&semt=ais_hybrid",
+          "serves": "1-2 pessoas",
+          "itemAbout": "Guacamole é um molho mexicano clássico, feito com abacate fresco e servido com nachos."
+        },
+        {
+          "name": "Quesadilla de Frango",
+          "price": 13.99,
+          "description": "Tortilha recheada com frango grelhado e queijo derretido, servida com sour cream.",
+          "productImage": "https://img.freepik.com/fotos-gratis/quesadillas-com-linguica-em-pao-frito_140725-9253.jpg?ga=GA1.1.1786221152.1716466257&semt=ais_hybrid",
+          "serves": "1-2 pessoas",
+          "itemAbout": "Quesadilla de Frango é uma opção deliciosa e fácil, perfeita para qualquer refeição."
+        },
+        {
+          "name": "Chiles Rellenos",
+          "price": 16.99,
+          "description": "Pimentões recheados com queijo e carne, empanados e fritos, servidos com molho de tomate.",
+          "productImage": "https://img.freepik.com/fotos-gratis/vista-de-cima-pimentoes-cozidos-com-carne-moida-em-fundo-cinza-escuro-farinha-de-vegetais-dolma-de-carne_140725-74591.jpg?ga=GA1.1.1786221152.1716466257&semt=ais_hybrid",
+          "serves": "1 pessoa",
+          "itemAbout": "Chiles Rellenos é um prato tradicional mexicano, com pimentões recheados e empanados."
+        },
+        {
+          "name": "Churros com Doce de Leite",
+          "price": 7.99,
+          "description": "Churros fritos, polvilhados com açúcar e canela, servidos com doce de leite.",
+          "productImage": "https://img.freepik.com/fotos-gratis/mao-segurando-um-churros-fritos-com-chocolate_23-2148379622.jpg?ga=GA1.1.1786221152.1716466257&semt=ais_hybrid",
+          "serves": "1-2 pessoas",
+          "itemAbout": "Churros são uma sobremesa popular no México, conhecidos por sua crocância e doçura."
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Tandoori Palace",
+      "description": "Explore a autêntica cozinha indiana no Tandoori Palace. Sabores exóticos e especiarias intensas em cada prato.",
+      "image": "https://img.freepik.com/fotos-gratis/deliciosa-comida-indiana-na-bandeja_23-2148723505.jpg?t=st=1723576433~exp=1723580033~hmac=12eecfd124b48043d2c3f3fc3e2d702aca1fcdc8a48251981ca9c363bbaf583b&w=996",
+      "infos": [
+        "Indiana"
+      ],
+      "rank": "4.7",
+      "type": "Indiana",
+      "menu": [
+        {
+          "name": "Chicken Tandoori",
+          "price": 17.99,
+          "description": "Frango marinado em especiarias indianas e assado no forno tandoor.",
+          "productImage": "https://img.freepik.com/fotos-gratis/vista-frontal-um-homem-segura-uma-bandeja-com-coxas-de-frango-grelhado-em-uma-pita-com-cebola-e-ervas_141793-4671.jpg?ga=GA1.1.1786221152.1716466257&semt=ais_hybrid",
+          "serves": "2-3 pessoas",
+          "itemAbout": "Chicken Tandoori é um prato clássico da culinária indiana, conhecido por seu sabor intenso e textura suculenta."
+        },
+        {
+          "name": "Butter Chicken",
+          "price": 19.99,
+          "description": "Frango cozido em molho cremoso de tomate e manteiga, servido com arroz basmati.",
+          "productImage": "https://img.freepik.com/fotos-gratis/frango-de-manteiga-indiana-em-tigela-preta-na-mesa-de-madeira_123827-20544.jpg?ga=GA1.1.1786221152.1716466257&semt=ais_hybrid",
+          "serves": "1-2 pessoas",
+          "itemAbout": "Butter Chicken é um dos pratos indianos mais populares, com um molho cremoso e sabor rico."
+        },
+        {
+          "name": "Naan",
+          "price": 3.99,
+          "description": "Pão indiano assado no forno tandoor, macio e perfeito para acompanhar qualquer prato.",
+          "productImage": "https://img.freepik.com/fotos-gratis/pao-pita-branco-saboroso-close-up_23-2148294995.jpg?ga=GA1.1.1786221152.1716466257&semt=ais_hybrid",
+          "serves": "1-2 pessoas",
+          "itemAbout": "Naan é um pão indiano clássico, assado no forno tandoor e perfeito para acompanhar pratos principais."
+        },
+        {
+          "name": "Paneer Tikka",
+          "price": 14.99,
+          "description": "Queijo indiano grelhado e temperado com especiarias, servido com chutney de menta.",
+          "productImage": "https://img.freepik.com/fotos-gratis/espetos-de-frango-com-fatias-de-maca-e-pimentao_2829-19992.jpg?ga=GA1.1.1786221152.1716466257&semt=ais_hybrid",
+          "serves": "1-2 pessoas",
+          "itemAbout": "Paneer Tikka é um prato vegetariano popular, com pedaços de queijo indiano grelhado."
+        },
+        {
+          "name": "Biryani de Cordeiro",
+          "price": 20.99,
+          "description": "Arroz basmati cozido com pedaços de cordeiro e especiarias, servido com raita.",
+          "productImage": "https://img.freepik.com/fotos-gratis/vista-superior-variedade-de-refeicoes-no-paquistao_23-2148821514.jpg?ga=GA1.1.1786221152.1716466257&semt=ais_hybrid",
+          "serves": "2 pessoas",
+          "itemAbout": "Biryani de Cordeiro é um prato tradicional indiano, rico em sabor e aroma."
+        },
+        {
+          "name": "Gulab Jamun",
+          "price": 5.99,
+          "description": "Bolinhas doces feitas de leite em pó, fritas e mergulhadas em calda de açúcar.",
+          "productImage": "https://img.freepik.com/fotos-gratis/conceito-de-ramada-com-comida-arabe_23-2147791819.jpg?ga=GA1.1.1786221152.1716466257&semt=ais_hybrid",
+          "serves": "1-2 pessoas",
+          "itemAbout": "Gulab Jamun é uma sobremesa indiana tradicional, famosa por sua doçura e textura macia."
+        }
+      ]
+    }
+  ],
+  "Checkout": [
+    {
+      "products": [
+        {
+          "id": 1,
+          "price": 0
+        }
+      ],
+      "billing": {
+        "name": "string",
+        "adress": "string",
+        "city": "string",
+        "CEP": "string",
+        "number": "string",
+        "complement": "string"
+      },
+      "payment": [
+        {
+          "card": {
+            "owner": {
+              "name": "string"
+            },
+            "name": "string",
+            "number": "string",
+            "expires": {
+              "month": 12,
+              "year": 2020
+            },
+            "code": 123
+          }
+        }
+      ],
+      "id": "ec07"
+    },
+    {
+      "id": "5819",
+      "billing": {
+        "name": "",
+        "adress": "",
+        "city": "",
+        "CEP": "",
+        "number": "",
+        "complement": ""
+      },
+      "products": [
+        {
+          "id": 1724348573977,
+          "price": 18.5
+        }
+      ],
+      "payment": {
+        "card": {
+          "owner": {
+            "name": ""
+          },
+          "name": "",
+          "number": "",
+          "expires": {
+            "month": 0,
+            "year": 0
+          },
+          "code": 0
+        }
+      }
+    },
+    {
+      "id": "0a1d",
+      "billing": {
+        "name": "",
+        "adress": "",
+        "city": "",
+        "CEP": "",
+        "number": "",
+        "complement": ""
+      },
+      "products": [
+        {
+          "id": 1724412094895,
+          "price": 18.99
+        }
+      ],
+      "payment": {
+        "card": {
+          "owner": {
+            "name": ""
+          },
+          "name": "",
+          "number": "",
+          "expires": {
+            "month": 0,
+            "year": 0
+          },
+          "code": 0
+        }
+      }
+    }
+  ]
+}
